@@ -1,3 +1,3 @@
 echo hello world
 
-echo -e \\e31mHello world\\e[0m
+echo -e \\e[31mHello world\\e[0m
