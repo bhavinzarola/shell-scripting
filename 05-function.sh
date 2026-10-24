@@ -1,8 +1,10 @@
 date_function() {
-  echo Welcome, Date and time right now is
+  echo Welcome $name, Date and time right now is
   date
 }
 
+name=John
 date_function
 
+name=Alice
 date_function
