@@ -1,5 +1,5 @@
 # Imported the function
-source central_function
+source central_function.sh
 
 #date_function() {
 #  echo Welcome $name, Date and time right now is
