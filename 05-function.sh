@@ -1,7 +1,10 @@
-date_function() {
-  echo Welcome $name, Date and time right now is
-  date
-}
+# Imported the function
+source central_function
+
+#date_function() {
+#  echo Welcome $name, Date and time right now is
+#  date
+#}
 
 name=John
 date_function
